@@ -1,0 +1,15 @@
+/*-----------------Footer------------------------*/
+
+
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+
+  background-color: #1C1F2C;
+
+}
+.social-icon {
+  height: 30px;
+}
