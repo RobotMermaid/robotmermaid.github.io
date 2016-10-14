@@ -11,10 +11,10 @@ the website
 * What I'm learning  
   * [treehouse]
     (https://teamtreehouse.com/magalirangel)    
-  * [Bloc just starting ]
+  * [Bloc one month in 5 more to go ]
     (https://www.bloc.io/)    
 * check this out  (in progress)
-       [robotmermaid.github.io] (https://robotmermaid.github.io/)   
+       [robotmermaid.github.io] (https://robotmermaid.com)   
 * Some Projects 
 <https://github.com/RobotMermaid>
 *  Random Roaming 
