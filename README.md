@@ -14,7 +14,7 @@ the website
   * [Bloc one month in 5 more to go ]
     (https://www.bloc.io/)    
 * check this out  (in progress)
-       [robotmermaid.github.io] (https://robotmermaid.com)   
+       [my portfolio] (https://robotmermaid.com)   
 * Some Projects 
 <https://github.com/RobotMermaid>
 *  Random Roaming 
