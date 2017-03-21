@@ -10,8 +10,8 @@ the website
     
 * What I'm learning  
   * [treehouse]
-    (https://teamtreehouse.com/magalirangel)    
-  * [Bloc one month in 5 more to go ]
+    (https://teamtreehouse.com/ondinemagalirangel)    
+  * [Bloc : almost done ]
     (https://www.bloc.io/)    
 * check this out  (in progress)
        [my portfolio] (https://robotmermaid.com)   
